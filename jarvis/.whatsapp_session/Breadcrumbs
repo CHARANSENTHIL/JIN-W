@@ -1,0 +1,129 @@
+0:00:13 Tab1 FinishNav4
+0:00:13 Tab1 PageLoad
+0:00:18 Microsoft.Shutdown.TabStripModel.CloseWebContentsAt
+0:00:18 Microsoft.Shutdown.TabStripModel.CloseTabs
+0:00:18 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl
+0:00:18 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_TabClosable
+0:00:18 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_NotClosingAll
+0:00:18 Microsoft.Shutdown.TabStripModel.CloseWebContentses
+0:00:18 Microsoft.Shutdown.TabStripModel.CloseWebContentses_FastShutdown
+0:00:18 Microsoft.Shutdown.TabStripModel.ShouldRunUnloadListenerBeforeClosing_true
+0:00:18 Microsoft.Shutdown.TabStripModel.RunUnloadListenerBeforeClosing_true
+0:00:18 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_NotClosedAll
+0:00:18 Microsoft.CloseTab_MiddleMouse
+0:00:18 Tab2 BeforeUnload proceed:true
+0:00:18 Microsoft.Shutdown.TabStripModel.CloseWebContentsAt
+0:00:18 Microsoft.Shutdown.TabStripModel.CloseTabs
+0:00:18 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl
+0:00:18 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_TabClosable
+0:00:18 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_NotClosingAll
+0:00:18 Microsoft.Shutdown.TabStripModel.CloseWebContentses
+0:00:18 Microsoft.Shutdown.TabStripModel.CloseWebContentses_FastShutdown
+0:00:18 Microsoft.Shutdown.TabStripModel.ShouldRunUnloadListenerBeforeClosing_false
+0:00:18 Microsoft.Shutdown.TabStripModel.RunUnloadListenerBeforeClosing_false
+0:00:18 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosedAll
+0:00:18 Microsoft.Shutdown.TabStripModel.SendDetachWebContentsNotifications
+0:00:18 Browser1 Close Tab2 at 1
+0:00:18 Tab2 RemoveInfobar73 #not-animated
+0:00:18 Tab2 WebContentsDestroyed
+0:00:18 Tab1 StartNav5 #renderer-user #link
+0:00:18 Tab1 FinishNav5
+0:00:27 Microsoft.PipelineStatus.ReportNonSuccess
+0:00:27 Microsoft.PipelineStatus.ReportNonSuccess
+0:02:05 Microsoft.Shutdown.ExitIgnoreUnloadHandlers
+0:00:00 Startup
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
+0:00:00 Microsoft.NewBrowser_Normal
+0:00:00 Microsoft.BrowserList.AddBrowser
+0:00:00 Tab1 StartNav1 #auto_toplevel
+0:00:00 Browser1 Insert active Tab1 at 0
+0:00:00 Tab1 AddInfobar73
+0:00:00 Tab1 FinishNav1
+0:00:00 Tab1 PageLoad
+0:00:00 Tab1 StartNav2 #typed
+0:00:01 Tab1 RemoveInfobar73
+0:00:01 Tab1 AddInfobar73
+0:00:01 Tab1 FinishNav2
+0:00:01 Tab1 PageLoad
+0:00:08 Tab1 StartNav3 #renderer-user #link
+0:00:08 Tab1 FinishNav3
+0:00:08 Widget Closed: BubbleDialogModelHostContentsView
+0:00:21 Microsoft.PipelineStatus.ReportNonSuccess
+0:00:34 Microsoft.PipelineStatus.ReportNonSuccess
+0:00:38 Tab1 RemoveInfobar-1
+0:00:40 Widget Closed: StatusBubble
+0:01:00 Widget Closed: TooltipAura
+0:01:19 Widget Closed: StatusBubble
+0:02:00 Microsoft.Shutdown.ExitIgnoreUnloadHandlers
+0:00:00 Startup
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
+0:00:00 Microsoft.NewBrowser_Normal
+0:00:00 Microsoft.BrowserList.AddBrowser
+0:00:00 Tab1 StartNav1 #auto_toplevel
+0:00:00 Browser1 Insert active Tab1 at 0
+0:00:00 Tab1 AddInfobar73
+0:00:00 Tab1 FinishNav1
+0:00:00 Tab1 PageLoad
+0:00:00 Tab1 StartNav2 #typed
+0:00:00 Tab1 RemoveInfobar73
+0:00:00 Tab1 AddInfobar73
+0:00:00 Tab1 FinishNav2
+0:00:00 Tab1 PageLoad
+0:00:02 Widget Closed: BubbleDialogModelHostContentsView
+0:00:06 Tab1 StartNav3 #renderer-user #link
+0:00:06 Tab1 FinishNav3
+0:00:10 Microsoft.PipelineStatus.ReportNonSuccess
+0:00:24 Widget Closed: StatusBubble
+0:00:33 Microsoft.PipelineStatus.ReportNonSuccess
+0:00:50 Widget Closed: StatusBubble
+0:01:13 Microsoft.Shutdown.ExitIgnoreUnloadHandlers
+0:00:00 Startup
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
+0:00:00 Microsoft.NewBrowser_Normal
+0:00:00 Microsoft.BrowserList.AddBrowser
+0:00:00 Tab1 StartNav1 #auto_toplevel
+0:00:00 Browser1 Insert active Tab1 at 0
+0:00:00 Tab1 AddInfobar73
+0:00:00 Tab1 FinishNav1
+0:00:00 Tab1 PageLoad
+0:00:00 Tab1 StartNav2 #typed
+0:00:01 Tab1 RemoveInfobar73
+0:00:01 Tab1 AddInfobar73
+0:00:01 Tab1 FinishNav2
+0:00:02 Tab1 PageLoad
+0:00:03 Widget Closed: BubbleDialogModelHostContentsView
+0:00:16 Tab1 StartNav3 #renderer-user #link
+0:00:16 Tab1 FinishNav3
+0:00:19 Widget Closed: TooltipAura
+0:00:21 Microsoft.PipelineStatus.ReportNonSuccess
+0:00:23 Microsoft.PipelineStatus.ReportNonSuccess
+0:01:11 NewTab_Button
+0:01:11 NewTab
+0:01:11 Tab2 StartNav4 #ntp #typed
+0:01:11 Widget Closed: StatusBubble
+0:01:11 Browser1 Insert active Tab2 at 1
+0:01:11 Tab2 AddInfobar73
+0:01:12 Tab2 FinishNav4
+0:01:14 Microsoft.Shutdown.ExitIgnoreUnloadHandlers
+0:00:00 Startup
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
+0:00:00 Microsoft.NewBrowser_Normal
+0:00:00 Microsoft.BrowserList.AddBrowser
+0:00:00 Tab1 StartNav1 #auto_toplevel
+0:00:00 Browser1 Insert active Tab1 at 0
+0:00:00 Tab1 AddInfobar73
+0:00:00 Tab1 FinishNav1
+0:00:00 Tab1 PageLoad
+0:00:00 Tab1 StartNav2 #typed
+0:00:01 Tab1 RemoveInfobar73
+0:00:01 Tab1 AddInfobar73
+0:00:01 Tab1 FinishNav2
+0:00:02 Tab1 PageLoad
+0:00:02 Widget Closed: BubbleDialogModelHostContentsView
+0:00:16 Tab1 StartNav3 #renderer-user #link
+0:00:16 Tab1 FinishNav3
+0:00:38 CloseTab_NoAlertIndicator

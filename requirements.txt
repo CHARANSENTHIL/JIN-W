@@ -1,0 +1,36 @@
+# JARVIS - Autonomous AI PC Assistant
+# Core AI
+ollama==0.1.8
+crewai==0.28.0
+langchain==0.1.16
+langchain-community==0.0.36
+
+# Web & Automation
+flask==3.0.3
+python-telegram-bot==21.1.1
+requests==2.31.0
+
+# PC Control
+pyautogui==0.9.54
+psutil==5.9.8
+keyboard==0.13.5
+pygetwindow==0.0.9
+pyperclip==1.8.2
+
+# Memory
+chromadb==0.5.0
+
+# Knowledge Graph
+neo4j==5.19.0
+
+# Vision
+mss==9.0.1
+Pillow==10.3.0
+pytesseract==0.3.10
+opencv-python==4.9.0.80
+
+# Utilities
+python-dotenv==1.0.0
+duckduckgo-search==5.3.0
+colorama==0.4.6
+rich==13.7.1

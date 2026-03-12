@@ -1,0 +1,6 @@
+2026/03/12-07:49:06.183 75a8 Reusing MANIFEST D:\JIN-W\jarvis\.whatsapp_session\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/03/12-07:49:06.184 75a8 Recovering log #19
+2026/03/12-07:49:06.185 75a8 Reusing old log D:\JIN-W\jarvis\.whatsapp_session\Default\EdgeCoupons/coupons_data.db/000019.log 
+2026/03/12-07:49:06.282 42a4 Level-0 table #24: started
+2026/03/12-07:49:06.288 42a4 Level-0 table #24: 681704 bytes OK
+2026/03/12-07:49:06.291 42a4 Delete type=0 #19

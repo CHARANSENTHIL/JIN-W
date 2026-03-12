@@ -1,0 +1,15 @@
+2026/03/12-07:43:27.810 2efc Reusing MANIFEST D:\JIN-W\jarvis\.whatsapp_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/12-07:43:27.811 2efc Recovering log #317
+2026/03/12-07:43:27.838 2efc Reusing old log D:\JIN-W\jarvis\.whatsapp_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000317.log 
+2026/03/12-07:43:45.287 9dc Level-0 table #330: started
+2026/03/12-07:43:45.309 9dc Level-0 table #330: 1168975 bytes OK
+2026/03/12-07:43:45.311 9dc Delete type=0 #317
+2026/03/12-07:43:45.440 9dc Compacting 1@1 + 7@2 files
+2026/03/12-07:43:45.502 9dc Generated table #331@1: 46713 keys, 2212996 bytes
+2026/03/12-07:43:45.554 9dc Generated table #332@1: 59912 keys, 2221770 bytes
+2026/03/12-07:43:45.603 9dc Generated table #333@1: 48973 keys, 2245810 bytes
+2026/03/12-07:43:45.628 9dc Generated table #334@1: 8036 keys, 2193138 bytes
+2026/03/12-07:43:45.671 9dc Generated table #335@1: 35172 keys, 2206319 bytes
+2026/03/12-07:43:45.712 9dc Generated table #336@1: 62272 keys, 2033500 bytes
+2026/03/12-07:43:45.712 9dc Compacted 1@1 + 7@2 files => 13113533 bytes
+2026/03/12-07:43:45.713 9dc compacted to: files[ 0 0 6 0 0 0 0 ]
